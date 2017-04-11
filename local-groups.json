@@ -4,6 +4,7 @@
 		, "Twitter": "@mappingdc"
 		, "osm_wiki": "https://wiki.openstreetmap.org/wiki/MappingDC"
 		, "Meetup": "http://www.meetup.com/MappingDC/"
+		, "GitHub": "https://github.com/mappingdc/"
 		}
 	, 	{ "name": "OSM Colorado"
 		, "contact": "Russell Deffner"
