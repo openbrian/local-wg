@@ -1,0 +1,19 @@
+{ "groups":
+	[	{ "name": "MappingDC"
+		, "contact": "Brian DeRocher"
+		, "Twitter": "@mappingdc"
+		, "osm_wiki": "https://wiki.openstreetmap.org/wiki/MappingDC"
+		, "Meetup": "http://www.meetup.com/MappingDC/"
+		}
+	, 	{ "name": "OSM Colorado"
+		, "contact": "Russell Deffner"
+		, "osm_wiki": "https://wiki.openstreetmap.org/wiki/Denver,_Colorado"
+		, "Meetup": "http://www.meetup.com/OSM-Colorado/"
+		}
+	, 	{ "name": "OSM Seattle"
+		, "contact": "Clifford Snow"
+		, "Twitter": "@osm_seattle"
+		, "Meetup": "https://www.meetup.com/OpenStreetMap-Seattle/"
+		}
+	]
+}
