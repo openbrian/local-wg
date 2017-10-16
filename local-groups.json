@@ -1,142 +1,166 @@
-{ "groups":
-	[	{ "name": "Bay Area OpenStreetMappers"
-		, "contact": "Ben Discoe"
-		, "Meetup": "https://www.meetup.com/Bay-Area-OpenStreetMappers/"
-		}
-	,	{ "name": "Central Pennsylvania OSM"
-		, "contact": "Sterling Quinn"
-		, "contact_email": "sdq107@psu.edu"
-		, "Facebook": "https://www.facebook.com/CentralPennsylvaniaOSM"
-		}
-	,	{ "name": "Chattanooga"
-		, "contact": "Jenny Park"
-		, "Facebook": "https://www.facebook.com/home.php?sk=group_123483951073256"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Chattanooga"
-		}
-	,	{ "name": "DFWosm"
-		, "contact": "Andrew Matheny"
-		, "contact_wiki": "https://wiki.openstreetmap.org/wiki/User:Andrew_Matheny"
-		, "website": "http://dfwosm.org/"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Dallas,_Texas"
-		}
-	,	{ "name": "GeoPhilly"
-		, "contact": "Dan Ford"
-		, "Meetup": "https://www.meetup.com/GeoPhilly/"
-		}
-	,	{ "name": "MapMinnesota"
-		, "website": "http://www.mapminnesota.org/"
-		, "wiki": "https://wiki.openstreetmap.org/wiki/MapMinnesota"
-		}
-	,	{ "name": "MappingDC"
-		, "contact": "Brian DeRocher"
-		, "contact_email": "brian@derocher.org"
-		, "contact2": "Steven Johnson"
-		, "contact2_email": "sejohnson8@gmail.com"
-		, "GitHub": "https://github.com/mappingdc/"
-		, "Meetup": "http://www.meetup.com/MappingDC/"
-		, "wiki": "https://wiki.openstreetmap.org/wiki/MappingDC"
-		, "Slack": "https://osmus.slack.com/messages/C1YLUUR19"
-		, "Twitter": "@mappingdc"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Washington_DC"
-		}
-	,	{ "name": "opencleveland"
-		, "contact": "Anastasia Diamond-Ortiz"
-		, "contact2": "Will Skora"
-		, "Meetup": "https://www.meetup.com/open-cleveland/"
-		, "Twitter": "@opencleveland"
-		}
-	,	{ "name": "OpenDataSTL"
-		, "contact": "Abhi Nemani"
-		, "Meetup": "https://www.meetup.com/Open-Data-STL/"
-		, "website": "http://opendatastl.org/"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/St._Louis,_Missouri"
-		}
-	,	{ "name": "OpenStreetMap Boston"
-		, "contact": "Lars Ahlzen"
-		, "contact_wiki": "https://wiki.openstreetmap.org/wiki/User:Ahlzen"
-		, "Meetup": "https://www.meetup.com/OpenStreetMap-Boston/"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Boston,_Massachusetts"
-		}
-	,	{ "name": "OpenStreetMap Georgia"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Decatur,_Georgia"
-		, "Facebook": "https://www.facebook.com/groups/135720612308/"
-		}
-	,	{ "name": "OpenStreetMap North Puget Sound"
-		, "contact": "Clifford Snow"
-		, "Meetup": "https://www.meetup.com/OpenStreetMap-North-Puget-Sound/"
-		}
-	,	{ "name": "OpenStreetMap NYC"
-		, "contact": "Jeff Ferzoco"
-		, "Meetup": "https://www.meetup.com/osm-nyc/"
-		}
-	, 	{ "name": "OpenStreetMap Seattle"
-		, "contact": "Chase Stephens"
-		, "contact_email": "seattlefyi@gmail.com"
-		, "contact2": "Paul McCombs"
-		, "contact2_email": "pablo@imperium.org"
-		, "mailing_list": "https://lists.openstreetmap.org/listinfo/Talk-us-pugetsound"
-		, "Meetup": "https://www.meetup.com/OpenStreetMap-Seattle/"
-		, "Twitter": "@osm_seattle"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Seattle,_Washington"
-		}
-	,	{ "name": "OpenStreetMap St Louis Mid America Mappers"
-		, "contact": "Rick Marshall"
-		, "Meetup": "https://www.meetup.com/OpenStreetMap-St-Louis-Mid-America-Mappers/"
-		}
-	,	{ "name": "OpenStreetMap Utah"
-		, "contact": "Martijn van Exel"
-		, "contact_email": "m@rtijn.org"
-		, "contact_wiki": "https://wiki.openstreetmap.org/wiki/User:Mvexel"
-		, "Meetup": "https://www.meetup.com/OpenStreetMap-Utah/"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/OpenStreetMap_Utah"
-		}
-	, 	{ "name": "OSM Colorado"
-		, "contact": "Russell Deffner"
-		, "contact_email": "russdeffner@gmail.com"
-		, "Meetup": "http://www.meetup.com/OSM-Colorado/"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Denver,_Colorado"
-		}
-	,	{ "name": "OpenStreetMap Portland"
-		, "contact": "Madeline Steele"
-		, "Meetup": "https://www.meetup.com/OpenStreetMap-Portland/"
-		}
-	,	{ "name": "OSM Southern California"
-		, "contact": "Carlott Wolter"
-		, "contact2": "Richard Kachelriess"
-		, "contact2_email": "rkachelriess@esri.com"
-		, "Meetup": "https://www.meetup.com/OSM-Southern-California/"
-		}
-	, 	{ "name": "OSM Tampa Bay"
-		, "contact": "Coleman McCormick"
-		, "contact_email": "cmccormick@gmail.com"
-		, "contact_wiki": "https://wiki.openstreetmap.org/wiki/User:Coleman"
-		, "Meetup": "http://www.meetup.com/osmtampabay/"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Tampa,_Florida"
-		}
-	,	{ "name": "OSM Wyoming"
-		, "contact": "Russell Deffner"
-		, "Meetup": "https://www.meetup.com/OSM-Wyoming/"
-		}
-	,	{ "name": "PHXGeo"
-		, "Meetup": "https://www.meetup.com/PHXGeo/"
-		, "contact": "Ryan Arp"
-		, "Twitter": "@phxgeo"
-		}
-	,	{ "name": "South Bay OSM"
-		, "contact": "Vivek Bansal"
-		, "contact2": "Minh Nguyễn"
-		, "contact2_wiki": "https://wiki.openstreetmap.org/wiki/User:Minh_Nguyen"
-		, "GitHub": "https://github.com/codeforsanjose/OSM-SouthBay/"
-		, "Meetup": "https://www.meetup.com/Code-for-San-Jose/"
-		, "Slack": "https://osmus-slack.herokuapp.com/"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Santa_Clara_County,_California"
-		, "mailing_list": "https://lists.openstreetmap.org/listinfo/talk-us-sfbay/"
-		}
-	,	{ "name": "Western Slope OpenStreetMap"
-		, "contact": "Aaron Young"
-		, "Meetup": "https://www.meetup.com/Western-Slope-OpenStreetMap/"
-		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Grand_Junction"
-		}
-
-	]
+{
+  "groups": [
+    {
+      "name": "Bay Area OpenStreetMappers",
+      "contact": "Ben Discoe",
+      "Meetup": "https://www.meetup.com/Bay-Area-OpenStreetMappers/"
+    },
+    {
+      "name": "Central Pennsylvania OSM",
+      "contact": "Sterling Quinn",
+      "contact_email": "sdq107@psu.edu",
+      "Facebook": "https://www.facebook.com/CentralPennsylvaniaOSM"
+    },
+    {
+      "name": "Chattanooga",
+      "contact": "Jenny Park",
+      "Facebook": "https://www.facebook.com/home.php?sk=group_123483951073256",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/Chattanooga"
+    },
+    {
+      "name": "DFWosm",
+      "contact": "Andrew Matheny",
+      "contact_wiki": "https://wiki.openstreetmap.org/wiki/User:Andrew_Matheny",
+      "website": "http://dfwosm.org/",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/Dallas,_Texas"
+    },
+    {
+      "name": "GeoPhilly",
+      "contact": "Dan Ford",
+      "Meetup": "https://www.meetup.com/GeoPhilly/"
+    },
+    {
+      "name": "MapMinnesota",
+      "website": "http://www.mapminnesota.org/",
+      "wiki": "https://wiki.openstreetmap.org/wiki/MapMinnesota"
+    },
+    {
+      "name": "MappingDC",
+      "contact": "Brian DeRocher",
+      "contact_email": "brian@derocher.org",
+      "contact2": "Steven Johnson",
+      "contact2_email": "sejohnson8@gmail.com",
+      "GitHub": "https://github.com/mappingdc/",
+      "Meetup": "http://www.meetup.com/MappingDC/",
+      "wiki": "https://wiki.openstreetmap.org/wiki/MappingDC",
+      "Slack": "https://osmus.slack.com/messages/C1YLUUR19",
+      "Twitter": "@mappingdc",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/Washington_DC"
+    },
+    {
+      "name": "opencleveland",
+      "contact": "Anastasia Diamond-Ortiz",
+      "contact2": "Will Skora",
+      "Meetup": "https://www.meetup.com/open-cleveland/",
+      "Twitter": "@opencleveland"
+    },
+    {
+      "name": "OpenDataSTL",
+      "contact": "Abhi Nemani",
+      "Meetup": "https://www.meetup.com/Open-Data-STL/",
+      "website": "http://opendatastl.org/",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/St._Louis,_Missouri"
+    },
+    {
+      "name": "OpenStreetMap Boston",
+      "contact": "Lars Ahlzen",
+      "contact_wiki": "https://wiki.openstreetmap.org/wiki/User:Ahlzen",
+      "Meetup": "https://www.meetup.com/OpenStreetMap-Boston/",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/Boston,_Massachusetts"
+    },
+    {
+      "name": "OpenStreetMap Georgia",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/Decatur,_Georgia",
+      "Facebook": "https://www.facebook.com/groups/135720612308/"
+    },
+    {
+      "name": "OpenStreetMap North Puget Sound",
+      "contact": "Clifford Snow",
+      "Meetup": "https://www.meetup.com/OpenStreetMap-North-Puget-Sound/"
+    },
+    {
+      "name": "OpenStreetMap NYC",
+      "contact": "Jeff Ferzoco",
+      "Meetup": "https://www.meetup.com/osm-nyc/"
+    },
+    {
+      "name": "OpenStreetMap Seattle",
+      "contact": "Chase Stephens",
+      "contact_email": "seattlefyi@gmail.com",
+      "contact2": "Paul McCombs",
+      "contact2_email": "pablo@imperium.org",
+      "mailing_list": "https://lists.openstreetmap.org/listinfo/Talk-us-pugetsound",
+      "Meetup": "https://www.meetup.com/OpenStreetMap-Seattle/",
+      "Twitter": "@osm_seattle",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/Seattle,_Washington"
+    },
+    {
+      "name": "OpenStreetMap St Louis Mid America Mappers",
+      "contact": "Rick Marshall",
+      "Meetup": "https://www.meetup.com/OpenStreetMap-St-Louis-Mid-America-Mappers/"
+    },
+    {
+      "name": "OpenStreetMap Utah",
+      "contact": "Martijn van Exel",
+      "contact_email": "m@rtijn.org",
+      "contact_wiki": "https://wiki.openstreetmap.org/wiki/User:Mvexel",
+      "Meetup": "https://www.meetup.com/OpenStreetMap-Utah/",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/OpenStreetMap_Utah"
+    },
+    {
+      "name": "OSM Colorado",
+      "contact": "Russell Deffner",
+      "contact_email": "russdeffner@gmail.com",
+      "Meetup": "http://www.meetup.com/OSM-Colorado/",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/Denver,_Colorado"
+    },
+    {
+      "name": "OpenStreetMap Portland",
+      "contact": "Madeline Steele",
+      "Meetup": "https://www.meetup.com/OpenStreetMap-Portland/"
+    },
+    {
+      "name": "OSM Southern California",
+      "contact": "Carlott Wolter",
+      "contact2": "Richard Kachelriess",
+      "contact2_email": "rkachelriess@esri.com",
+      "Meetup": "https://www.meetup.com/OSM-Southern-California/"
+    },
+    {
+      "name": "OSM Tampa Bay",
+      "contact": "Coleman McCormick",
+      "contact_email": "cmccormick@gmail.com",
+      "contact_wiki": "https://wiki.openstreetmap.org/wiki/User:Coleman",
+      "Meetup": "http://www.meetup.com/osmtampabay/",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/Tampa,_Florida"
+    },
+    {
+      "name": "OSM Wyoming",
+      "contact": "Russell Deffner",
+      "Meetup": "https://www.meetup.com/OSM-Wyoming/"
+    },
+    {
+      "name": "PHXGeo",
+      "Meetup": "https://www.meetup.com/PHXGeo/",
+      "contact": "Ryan Arp",
+      "Twitter": "@phxgeo"
+    },
+    {
+      "name": "South Bay OSM",
+      "contact": "Vivek Bansal",
+      "contact2": "Minh Nguyễn",
+      "contact2_wiki": "https://wiki.openstreetmap.org/wiki/User:Minh_Nguyen",
+      "GitHub": "https://github.com/codeforsanjose/OSM-SouthBay/",
+      "Meetup": "https://www.meetup.com/Code-for-San-Jose/",
+      "Slack": "https://osmus-slack.herokuapp.com/",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/Santa_Clara_County,_California",
+      "mailing_list": "https://lists.openstreetmap.org/listinfo/talk-us-sfbay/"
+    },
+    {
+      "name": "Western Slope OpenStreetMap",
+      "contact": "Aaron Young",
+      "Meetup": "https://www.meetup.com/Western-Slope-OpenStreetMap/",
+      "wiki_city": "https://wiki.openstreetmap.org/wiki/Grand_Junction"
+    }
+  ]
 }
