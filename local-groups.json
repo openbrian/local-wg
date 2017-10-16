@@ -122,6 +122,16 @@
 		, "contact": "Ryan Arp"
 		, "Twitter": "@phxgeo"
 		}
+	,	{ "name": "South Bay OSM"
+		, "contact": "Vivek Bansal"
+		, "contact2": "Minh Nguyễn"
+		, "contact2_wiki": "https://wiki.openstreetmap.org/wiki/User:Minh_Nguyen"
+		, "GitHub": "https://github.com/codeforsanjose/OSM-SouthBay/"
+		, "Meetup": "https://www.meetup.com/Code-for-San-Jose/"
+		, "Slack": "https://osmus-slack.herokuapp.com/"
+		, "wiki_city": "https://wiki.openstreetmap.org/wiki/Santa_Clara_County,_California"
+		, "mailing_list": "https://lists.openstreetmap.org/listinfo/talk-us-sfbay/"
+		}
 	,	{ "name": "Western Slope OpenStreetMap"
 		, "contact": "Aaron Young"
 		, "Meetup": "https://www.meetup.com/Western-Slope-OpenStreetMap/"
