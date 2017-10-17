@@ -84,6 +84,13 @@
       "Meetup": "https://www.meetup.com/osm-nyc/"
     },
     {
+      "name": "OpenStreetMap Portland",
+      "contact": "Madeline Steele",
+      "contact_email": "madeline.steele@gmail.com",
+      "mailing_list": "https://groups.google.com/forum/#!forum/osm-pdx",
+      "Meetup": "https://www.meetup.com/OpenStreetMap-Portland/"
+    },
+    {
       "name": "OpenStreetMap Seattle",
       "contact": "Chase Stephens",
       "contact_email": "seattlefyi@gmail.com",
